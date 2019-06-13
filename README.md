@@ -9,5 +9,5 @@
 5. lightOJ - username: amirulislam (solved - 80)
 6. HackerRank - [https://www.hackerrank.com/shiningflash] etc
 
-Linkedin - [https://www.linkedin.com/in/amirulislamalmamun/]
-mail ID - [amirulislam.bracu@gmail.com]
+> Linkedin - [https://www.linkedin.com/in/amirulislamalmamun/]
+> mail ID - amirulislam.bracu@gmail.com
