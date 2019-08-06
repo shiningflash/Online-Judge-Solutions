@@ -6,7 +6,7 @@
 2. codeforces - https://codeforces.com/profile/Amirulislam
 3. spoj - https://www.spoj.com/users/amirul_bracu/
 4. codechef - https://www.codechef.com/users/shiningflash_
-5. lightOJ - username: amirulislam (solved - 80)
+5. lightOJ - username: amirulislam (solved - 110*)
 6. HackerRank - https://www.hackerrank.com/shiningflash etc
 
  Linkedin - https://www.linkedin.com/in/amirulislamalmamun/ <br/>
