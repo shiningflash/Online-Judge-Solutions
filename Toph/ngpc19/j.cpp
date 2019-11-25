@@ -5,7 +5,7 @@ using namespace std;
 #define LLI long long int
 
 LLI a[] = {
-    2,
+        2,
  	4,
  	8,
  	16,
