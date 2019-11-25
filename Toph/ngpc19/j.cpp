@@ -1,4 +1,4 @@
-// @author : Amirul Islam
+// @author: Amirul Islam
 
 #include <bits/stdc++.h>
 using namespace std;
