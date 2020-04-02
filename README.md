@@ -6,7 +6,7 @@
 * [codeforces](https://codeforces.com/profile/Amirulislam)
 * [spoj](https://www.spoj.com/users/amirul_bracu)
 * [codechef](https://www.codechef.com/users/shiningflash_)
-* lightOJ - username: amirulislam (solved - 110*)
+* lightOJ - username: amirulislam
 * [HackerRank](https://www.hackerrank.com/shiningflash)
 
 # Find me
