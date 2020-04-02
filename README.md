@@ -2,12 +2,13 @@
 
 # My Online judges Profiles
 
-1. UVa - https://uhunt.onlinejudge.org/id/993512
-2. codeforces - https://codeforces.com/profile/Amirulislam
-3. spoj - https://www.spoj.com/users/amirul_bracu/
-4. codechef - https://www.codechef.com/users/shiningflash_
-5. lightOJ - username: amirulislam (solved - 110*)
-6. HackerRank - https://www.hackerrank.com/shiningflash etc
+* [UVa](https://uhunt.onlinejudge.org/id/993512)
+* [codeforces](https://codeforces.com/profile/Amirulislam)
+* [spoj](https://www.spoj.com/users/amirul_bracu)
+* [codechef](https://www.codechef.com/users/shiningflash_)
+* lightOJ - username: amirulislam (solved - 110*)
+* [HackerRank](https://www.hackerrank.com/shiningflash)
 
- Linkedin - https://www.linkedin.com/in/amirulislamalmamun/ <br/>
- mail ID - amirulislam.bracu@gmail.com
+# Find me
+* [Linkedin](https://www.linkedin.com/in/amirulislamalmamun)
+* Mail ID : amirulislam.bracu@gmail.com
